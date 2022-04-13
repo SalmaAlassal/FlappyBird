@@ -104,7 +104,7 @@ Winner
 
 - Salma Ayman
 - Suhail Abdel-All
-- Abdelrahman Khatab
-- Abdelrahman Gaber                  
+- [Abdelrahman Khatab](https://github.com/AbdelrahmanKhatab9)
+- [Abdelrhman Sayed](https://github.com/Abdelrhman-Sayed70)                  
 - Ahmed nasr El-Din
 - Mohamed Mobark       

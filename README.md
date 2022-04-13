@@ -22,9 +22,10 @@ Colliding with a pipe or the ground ends the gameplay. During the game over scre
 
 - Then execute the following commands:
 
-   `git clone https://github.com/SalmaAlassal/FlappyBird/tree/main/FlappyBird-Linux`
+   `git clone https://github.com/SalmaAlassal/FlappyBird`
 
-
+    ` cd FlappyBird && rm -rf FlappyBird-Win && cd FlappyBird-Linux`
+    
    `g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio `
 
    `./a.out` 
@@ -35,12 +36,14 @@ Colliding with a pipe or the ground ends the gameplay. During the game over scre
 
   `cd C:\Users\Username\Downloads`
   
-  `git clone https://github.com/SalmaAlassal/FlappyBird/tree/main/FlappyBird-Win`
-
-
   **Change the username to your own**
+
+  `git clone https://github.com/SalmaAlassal/FlappyBird`
+  
+  `cd FlappyBird && rmdir /s  FlappyBird-Linux`
+
  
-- Execute **Flappy Bird.exe** then enjoy your time.
+- Execute **Flappy Bird.exe** in FlappyBird-Win folder then enjoy your time.
 
 
 # How to play
@@ -52,16 +55,15 @@ Colliding with a pipe or the ground ends the gameplay. During the game over scre
 - Stay in the middle of the pipes. This is the main objective of the game. If you hit a pipe or the ground, the game ends.
 
 
+# When do you win
+
+The bird Faby will win the game if she successful pass through 100 pipes.
+
 # How to pause
    press the **ESC key**.
 
 # How to resume
    press the **p key**.
-
-
-# When do you win
-
-The bird Faby will win the game if she successful pass through 100 pipes.
 
 
 # Screenshots

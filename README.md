@@ -71,15 +71,16 @@ The bird Faby will win the game if she successful pass through 100 pipes.
 
 Main menu                  
 :-------------------------:
+|<img src="imgs/mainMenu.png"  />  
+
+Credits                 
+:-------------------------:
 |<img src="imgs/credits.png"  />  
 
 HighScore 
 :-------------------------:
 |<img src="imgs/hishScore.png"  width="1000" height="600" /> 
 
-Pasue
-:-------------------------:
-|  <img src="imgs/pause.png"  width="1000" height="600" />
 
 Get Ready 
 :-------------------------:
@@ -89,9 +90,14 @@ Get Ready
 :-------------------------:
 |<img src="imgs/getReady2.png" width="1000" height="600" />
 
+Pasue
+:-------------------------:
+|  <img src="imgs/pause.png"  width="1000" height="600" />
+
 Game Over 
 :-------------------------:
 |<img src="imgs/gameOver.png" width="1000" height="600" />
+
 
 Winner
 :-------------------------:
@@ -107,4 +113,4 @@ Winner
 - [Abdelrahman Khatab](https://github.com/AbdelrahmanKhatab9)
 - [Abdelrhman Sayed](https://github.com/Abdelrhman-Sayed70)                  
 - Ahmed nasr El-Din
-- Mohamed Mobark       
+- [Mohamed Mobark](https://github.com/mohammadmobaraki)       
